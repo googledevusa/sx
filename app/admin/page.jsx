@@ -38,7 +38,7 @@ export default function AdminDashboard() {
       if (result.success) {
         alert('সফলভাবে পরিবর্তন সংরক্ষিত হয়েছে! ✓');
       } else {
-        alert('সংরক্ষণ করতে সমস্যা হয়েছে।');
+        alert('সংরক্ষণ করতে সমস্যা হয়েছে।m');
       }
     } catch (err) {
       alert('নেটওয়ার্ক ত্রুটি।');
