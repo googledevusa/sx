@@ -1,0 +1,32 @@
+{
+  "whatsappNumber": "8801711000000",
+  "heroSlides": [
+    {
+      "id": 1,
+      "bgImage": "/images/hero-kaaba.jpg",
+      "heading": "ফিরে আসুন আপনার রবের দিকে",
+      "subtext": "আপনার এই সফর নিরাপদ ও সুন্দর রাখতে জয়েন করুন নেক্সট তাওয়াফ প্রোগ্রামে- একটি সেবা ট্রাভেলস এর উদ্যোগ",
+      "btnText": "নিজের প্যাকেজ তৈরি করুন →"
+    },
+    {
+      "id": 2,
+      "bgImage": "/images/flight-promo.jpg",
+      "heading": "Fly Now & Pay Later Service Available",
+      "subtext": "We trust every deal is unique. To get best fare chat with us now!",
+      "btnText": "Chat With Us Now →"
+    }
+  ],
+  "videos": [
+    { "id": 1, "title": "নেক্সট তাওয়াফ কাফেলা ও ওমরাহ সফর — পর্ব ১", "url": "https://www.facebook.com/reel/1825493738863959" },
+    { "id": 2, "title": "মক্কা ও মদিনায় হাজী সাহেবদের সেবা — পর্ব ২", "url": "https://www.facebook.com/reel/1357773363088256" },
+    { "id": 3, "title": "ঐতিহাসিক জিয়ারাহ ও কাফেলা অভিজ্ঞতা — পর্ব ৩", "url": "https://www.facebook.com/reel/900351346452681" },
+    { "id": 4, "title": "পবিত্র হারাম শরীফ প্রাঙ্গণে মুহূর্ত — পর্ব ৪", "url": "https://www.facebook.com/reel/1345108714469238" },
+    { "id": 5, "title": "ওমরাহ প্রশিক্ষণ ও গাইডলাইন — পর্ব ৫", "url": "https://www.facebook.com/reel/1669970890730909" },
+    { "id": 6, "title": "সেবা ট্রাভেলস ইন্টারন্যাশনাল কাফেলা — পর্ব ৬", "url": "https://www.facebook.com/reel/4396504207270768" }
+  ],
+  "footer": {
+    "address": "৬৭/১ নয়া পল্টন, ভিআইপি রোড, ঢাকা-১০০০, বাংলাদেশ",
+    "hotline": "+৮৮০ ১৭১১-০০০০০০",
+    "email": "info@shebatravelsbd.com"
+  }
+}
